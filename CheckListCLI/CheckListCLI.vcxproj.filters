@@ -18,15 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="CLI.cpp">
+    <ClCompile Include="list.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CLI.h">
+    <ClInclude Include="CheckList.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="CheckList.h">
+    <ClInclude Include="TerminalInterface.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TUI.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="list.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
